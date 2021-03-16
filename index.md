@@ -10,5 +10,5 @@ layout: default
 
 # Introduction:
 
-The purpose of this page is …
+The purpose of this page is
 

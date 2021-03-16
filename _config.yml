@@ -3,7 +3,7 @@ author:
   name: pmloop
   email: pmlo@web.de
 description: > # this means to ignore newlines until "show_excerpts:"
-  Collecting random thoughts and (sometimes) useful stuffs.
+  Collecting random thoughts and (hopefully some) useful stuffs.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 

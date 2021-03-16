@@ -81,7 +81,7 @@ lat[xvec[0], xvec[1], xvec[2], xvec[3], d]
 ```
 
 
-## git basics
+## GIT basics
 
 Develop locally a version-controlled project:  
 
@@ -94,10 +94,6 @@ git init --bare proj.git
 ```
 
 Add the remotes locally:
-
-```unix
-git remote add tplx tplx:~/olympus/proj.git
-```
 
 ```unix
 git remote add lxpool lxpool:~/<dir>

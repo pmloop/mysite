@@ -8,3 +8,10 @@ permalink: /mac/
 
 
 ## use brew
+
+
+# Vim Usage
+
+* gt to go to
+* gT to go back
+* :r !date
