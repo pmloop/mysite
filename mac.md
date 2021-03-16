@@ -6,8 +6,41 @@ permalink: /mac/
 
 ## Mac Usage
 
-* use brew
+### use brew
 
+### ssh without password
+
+```unix
+ssh-keygen -q -f ~/.ssh/id_rsa -t rsa
+ssh-copy-id <remote>
+```
+and set up your 
+
+```unix
+   ~/.ssh/config
+```
+
+### Open terminal here:
+
+```
+tell application "Finder" to set Dir to "'" & (POSIX path of (target of front window as text)) & "'"
+
+if application "iTerm" is running then
+	tell application "iTerm"
+		set win to (create window with default profile)
+		set sesh to (current session of win)
+		tell sesh to write text "cd " & Dir & ";clear"
+	end tell
+else
+	activate "iTerm"
+	tell application "iTerm"
+		set win to current window
+		set sesh to (current session of win)
+		tell sesh to write text "cd " & Dir & ";clear"
+	end tell
+end if
+
+```
 
 ## Vim Usage
 

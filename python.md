@@ -45,7 +45,7 @@ ans = sum(ans)
 
 ```
 
-* if you need further processing:
+* further processing:
 
 ```python
 N1 = 10
@@ -70,7 +70,7 @@ i1, i2 = int(pool[1][_ii]), int(pool[2][_ii])
 print(para1_arr[i1], para2_arr[i2])
 ```
 
-## Passing tuple as index for array:
+## passing tuple as index for array:
 
 ```python
 lat[tuple([*xvec, d])]
