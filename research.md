@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# Research Interests
+## Research Interests
 
 * Scattering Theory
 * Hot and Dense QCD Matter

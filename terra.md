@@ -1,7 +1,7 @@
 ---
 layout: page
 title: terra incognito
-permalink: /terra_incognito/
+# permalink: /terra_incognito/
 ---
 
 You found Me?!

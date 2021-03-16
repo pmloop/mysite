@@ -4,9 +4,6 @@ title: Python
 permalink: /python/
 ---
 
-# Python Tricks
-
-
 ## generator for integrals
 
 
