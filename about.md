@@ -18,9 +18,9 @@ You can find the source code for Jekyll at GitHub:
 
 ## Physics
 
-[inspire][https://inspirehep.net/]
+[inspire](https://inspirehep.net/)
 
 ## Food for thoughts
 
-[Langtangen][https://hplgit.github.io/]
+[Langtangen](https://hplgit.github.io/)
 

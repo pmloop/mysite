@@ -8,5 +8,3 @@ permalink: /mac/
 
 
 ## use brew
-
-
